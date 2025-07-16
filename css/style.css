@@ -253,3 +253,43 @@ form .apply-btn:hover,
 .app-table button:hover {
   opacity: 0.9;
 }
+#searchInput {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.live-results {
+  background: #1a2c47;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+.jobs-header input {
+  background-color: #fff;
+  color: #0B1F3A;
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 16px;
+}
+.jobs-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+.jobs-header input {
+  background-color: #fff;
+  color: #0B1F3A;
+  border: 1px solid #ccc;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 16px;
+}
