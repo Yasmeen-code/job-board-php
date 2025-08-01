@@ -10,7 +10,6 @@ include 'templates/header.php';
       <input type="text" id="searchInput" placeholder="Search..." style="padding: 8px 12px; font-size: 16px; border-radius: 6px; border: none; width: 250px;">
     </div>
 
-    <!-- Jobs list (results will be dynamically updated) -->
     <div id="jobList" class="jobs">
       <?php
       $stmt = $pdo->query("SELECT * FROM jobs ORDER BY created_at DESC");

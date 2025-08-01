@@ -8,7 +8,7 @@ $jobs = [
         'company' => 'TechWave',
         'location' => 'Cairo, Egypt',
         'salary' => '12,000 EGP',
-        'user_id' => 1
+        'user_id' => 6
     ],
     [
         'title' => 'Backend Developer',
@@ -16,7 +16,7 @@ $jobs = [
         'company' => 'CodeLab',
         'location' => 'Remote',
         'salary' => '15,000 EGP',
-        'user_id' => 1
+        'user_id' => 6
     ],
     [
         'title' => 'Graphic Designer',
@@ -24,7 +24,7 @@ $jobs = [
         'company' => 'DesignPro',
         'location' => 'Alexandria, Egypt',
         'salary' => '9,000 EGP',
-        'user_id' => 1
+        'user_id' => 6
     ],
     [
         'title' => 'Data Analyst',
@@ -32,7 +32,7 @@ $jobs = [
         'company' => 'InsightX',
         'location' => 'Giza, Egypt',
         'salary' => '14,000 EGP',
-        'user_id' => 1
+        'user_id' => 9
     ],
     [
         'title' => 'HR Manager',
@@ -40,7 +40,7 @@ $jobs = [
         'company' => 'PeopleFirst',
         'location' => 'Cairo, Egypt',
         'salary' => '18,000 EGP',
-        'user_id' => 1
+        'user_id' => 9
     ]
 ];
 
